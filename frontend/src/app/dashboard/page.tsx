@@ -11,7 +11,7 @@ export default function DashboardPage() {
 
     return (
         <div className="h-[100vh] w-full flex flex-col items-center justify-center gap-4 ">
-            <h1 className="text-2xl font-bold">Count: {count}</h1>
+            <h1 className="text-2xl font-bold">Count: {count}</h1>  
 
             <div className="flex gap-4">
                 <button
